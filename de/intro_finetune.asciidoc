@@ -348,7 +348,7 @@ Dieser prüft in der Voreinstellung alle zwei Stunden, ob neue (noch nicht über
 
 Detaillierte Informationen zu diesem „Discovery Check“ erhalten Sie im xref:wato_services#discovery_check[Artikel über die Konfiguration von Services]. Dort erfahren Sie auch, wie Sie nicht überwachte Services automatisch hinzufügen lassen können, was die Arbeit in großen Konfiguration erheblich erleichtert.
 
-*Tipp:* Über [.guihint]#Monitor > Analyze > Unmonitored services# können Sie sich eine Ansicht aufrufen, die Ihnen die neuen und weggefallenen Services anzeigt.
+*Tipp:* Über [.guihint]#Monitor > System > Unmonitored services# können Sie sich eine Ansicht aufrufen, die Ihnen die neuen und weggefallenen Services anzeigt.
 // Diese können Sie dann regelmäßig abarbeiten.
 
 // *Tipp:* Manche Anwender speichern ein Lesezeichen für eine Ansicht, die alle Discovery-Services auf allen Hosts zeigt, die nicht im Zustand {OK} sind. Diese können Sie dann regelmäßig -- z.B. einmal pro Tag -- abarbeiten.
